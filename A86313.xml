@@ -1,0 +1,280 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A friendly perswation and Christian exhortation to all, who profess the guidance of the spirit of Christ and Christianity, to keep out of false-reports, whisperings, and backbitings which disturbs the peace of the Church, and are the occasion of offences.</title>
+            <author>Heywood, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86313</idno>
+            <idno type="STC">Wing H1756A</idno>
+            <idno type="STC">ESTC R177982</idno>
+            <idno type="EEBO-CITATION">45789341</idno>
+            <idno type="OCLC">ocm 45789341</idno>
+            <idno type="VID">172651</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86313)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172651)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2643:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A friendly perswation and Christian exhortation to all, who profess the guidance of the spirit of Christ and Christianity, to keep out of false-reports, whisperings, and backbitings which disturbs the peace of the Church, and are the occasion of offences.</title>
+                  <author>Heywood, John.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Howkins in George-yard in Lumbardstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: John Heywood.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England --  Pastoral letters and charges --  Early works to 1800.</term>
+               <term>Gossip --  England --  Early works to 1800.</term>
+               <term>Libel and slander --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:172651:1" rendition="simple:additions"/>
+            <head>A FRIENDLY PERSWATION,
+AND
+Chriſtian Exhortation</head>
+            <opener>
+               <salute>To all who profeſs the Guidance of the Spirit of Chriſt and Chriſtianity, to keep out of Falſe-Reports, Whiſperings,
+and Backbitings which diſturbs the Peace of the Church, and are the occaſion of Offences.</salute>
+            </opener>
+            <p>OFten it hath been on my heart the Conſideration of the great Love
+of God who viſited me in my tender Youthful days, for then was
+I earneſtly ſeeking after the Knowledge of God and Life Eternal
+in ſolitary Places where I might be alone; there did I often Mourn,
+Cry, and Travel in the Bitterneſs and Anguiſh of my Soul; till he
+appeared who gives relief to the Oppreſſed and Needy: And bleſ<g ref="char:EOLhyphen"/>ſed
+be the God of <hi>Iſrael</hi> who took pity of me in my diſtreſſed ſtate, and did for
+the Cry of the Poor, and Sighing of the Needy, ariſe in an acceptable day to give
+my Soul relief from thoſe diſquietings and diſſatisfactions I was then under, while
+I was amongſt the Profeſſors of God in that day. Now ſince Gods bleſſed day
+hath dawned, and his Arm of Salvation hath reached unto me, I can ſay it hath
+been a great Care upon my Spirit to keep to that Sure Rock, Foundation, Habita<g ref="char:EOLhyphen"/>tion
+and quiet peacable Dwelling which he hath in ſome meaſure given me a poſ<g ref="char:EOLhyphen"/>ſeſſion
+of, and an Inheritance in that Eternal Life that is with the Father External,
+praiſe to his Name for ever.</p>
+            <p>Now Friends, the intent of this Paper is earneſtly to perſwade all, who profeſs
+the Truth, to keep out of thoſe very hurtful Evils of Strife, Debate, and Diviſion
+that are too commonly agravated and heightned, by letting in Jealouſie, Falſe Re<g ref="char:EOLhyphen"/>ports,
+<hi>Whiſpering</hi> and <hi>Backbiting.</hi> This I have ſeen with grief of Spirit in the light
+of the Lord hath been the means by which the Enemy, the evil Seeds-man, the
+Devil, the Common Enemy of mans temporal and eternal Good hath wrought to
+break that Sweet Unity and Heavenly Converſation amongſt Brethren: The Apoſtle
+<hi>Paul</hi> in the 1ſt <hi>Romans</hi> 29. had a ſight of theſe evils, and declares them as his
+Judgement, to be tokens of a deelining and reprobate mind: when they did
+not like to retain God in their knowledge, God gave them up to a reprobate
+mind to do thoſe things which are not convenient, being filled with <hi>envy, murder,
+debate, deceit, malignity, Whiſpering</hi> and <hi>Backbiting.</hi>
+            </p>
+            <p>1ſt. Whiſpering, Backbiting and Falſe Reports are the common Enemies of Ci<g ref="char:EOLhyphen"/>vil
+and Spiritual Society, it hath a Secret and Cloſe way of ſmiting in the dark, and
+goes about from one to another, and privately vents its ſlander, not with an intent
+to make it leſs publick: it's a Malitious Enemy, this way the <hi>Whiſperer</hi> hath to deli<g ref="char:EOLhyphen"/>ver
+falſe reports, that thereby he may make them the more believed and ſpoken of
+too for that perſon that receives a falſe report as a ſecret from one, thinks to pleaſe
+ſome body elſe by delivering it as a ſecret to others alſo; ſo it paſſes from one to a<g ref="char:EOLhyphen"/>nother
+till at laſt it ſpreads over City, Town, and Country. This thing, whoever
+thou art that is guilty herein, proves very injurious to thy Neighbour, therefore I
+earneſtly warn all to watch againſt this growing evil, for mark you, in more pub<g ref="char:EOLhyphen"/>lick
+Accuſations the perſon grieved may have remedies to clear himſelf, and detect
+his Adverſary: but here againſt the <hi>Whiſperer</hi> there is no poſſibility of that, becauſe
+the <hi>Whiſperer</hi> and <hi>Backbiter</hi> ſmites in the dark and we know not who it is, till at
+length his Whiſpers break out. Ah, the Tongue is a little Member, but doth much
+miſchief, and is uſed oftentimes as a ſword that wounds the reputation of innocent
+perſons by falſe reports, <hi>Solomon</hi> ſpeaks of it in 18 <hi>Proverbs,</hi> A <hi>Whiſperer</hi> ſeparates
+Chief Friends.</p>
+            <p>2ly. I beg of you to watch againſt the <hi>Whiſperer</hi> and <hi>Falſe Reporter,</hi> as neither to
+give way to or to be an encourager of thoſe that come with ſlanders, for they that
+entertain them give encouragement to them that practiſe it: we have a Proverb in
+<hi>England,</hi> That if therewere no Receivers there would be no Thieves, ſo if there were
+none that would give an Ear to Tales there would be no Tale-bearers; if we are ſub<g ref="char:EOLhyphen"/>ject
+to give too eaſie credit to them, this encourages the <hi>Whiſperer</hi> and <hi>Backbiter,</hi>
+and ſo begets an ill opinion of the perſon, which is a great evil to believe ill with<g ref="char:EOLhyphen"/>out
+a juſt ground: when the Enemy hath thus far gained his end upon any to re<g ref="char:EOLhyphen"/>ceive
+the accuſation, then the next thing is to report it to others, and ſo become
+a Companion with the <hi>Whiſperer</hi> and <hi>Backbiter,</hi> and after he hath unjuſtly with<g ref="char:EOLhyphen"/>drawn
+thy own good opinion of thy Neighbour, endeavoureſt to rob him of
+that with others alſo; for he that can take delight to hear his Neighbour re<g ref="char:EOLhyphen"/>proached,
+may well be preſumed to give us to believe, will not ſtick to ſpread the
+ſlander.</p>
+            <p>Therefore Friends take my Chriſtian Advice to keep in innocency in this matter,
+and not in the leaſt to encourage any that are given to falſe Reports, by which the
+Sweet Converſation and Unity comes to be broken.</p>
+            <p>3ly. This ſin of <hi>Whiſpering, Backbiting</hi> and <hi>Falſe Reports</hi> is a miſchievous Enemy
+that leſſens if not wholly deſtroys the Credit of man, not only in Spiritual things
+but Natural. 1ſt. Conſider the thing he is robbed of: 2ly. The difficulty of making
+ſatisfaction; a good name is better than Riches, a thing to be accounted in great
+eſteem to every innocent man, very near to a mans life: now the making of Repa<g ref="char:EOLhyphen"/>ration
+for the injury done in this caſe of Defamation is very hard, nay, it ſeems all<g ref="char:EOLhyphen"/>moſt
+impoſſible, for mind you, when men are poſſeſſed with an ill opinion of a man,
+it is no eaſie matter to remove it out of their minds: Therefore theſe things be<g ref="char:EOLhyphen"/>ing
+conſidered, how wary, how careful, and how conſcientious ſhould we be in this
+matter, how we ſpeak of, or give entertainment to ſuch as are <hi>Tale-bearers, Whiſpe<g ref="char:EOLhyphen"/>rers</hi>
+and <hi>Falſe-reporters,</hi> that do ſuch great miſchiefs to men.</p>
+            <p>4ly. In your common converſation or viſiting one another, keep out of theſe re<g ref="char:EOLhyphen"/>ports,
+and rather let it be in the love of God, ſtirring up one another to Love, and
+Charity, and Good Works, according to the gift that is in you that your viſits
+may be in the edifying and building up one another in the moſt holy faith, telling
+one another of your experiences, and what the Lord hath done for our ſouls, who
+is watering daily his pleaſant plants, and cauſing them to grow as fruitful plants, to
+the praiſe of the good Husbandman, and here as we are opened one to another we
+ſhall be kept freſh, and green, and tender in the Love of God, here none will be
+hurt, but rather if any are gone out of the way or have ſlipt, to reſtore ſuch
+with the ſpirit of meekneſs and tenderneſs, this will be far from loading any with
+ſcorn and calumny, which doth but drive farther from God, and from Unity with
+the Brethren: read the 14th <hi>Epheſ. 31, 32. Let all bitterneſs, and wrath, and anger,
+and clamour, and evil-ſpeaking be put away from amongſt you with all malice, and be you
+kind one to another, and tender hearted, forgiving one another, as God for Chriſts ſake
+forgave you.</hi>
+            </p>
+            <p>5ly. Take not up an occaſion againſt any from bare report without certain teſti<g ref="char:EOLhyphen"/>mony
+or knowledge of matter of fact againſt the perſon, and whoever thou art that
+reproves another for any thing that is wrong, had need be innocent in thy converſa<g ref="char:EOLhyphen"/>tion,
+and clear of thoſe things thou reproveſt others for, otherwiſe it may be ſaid
+of thee as Chriſt taught in the 7th of <hi>Matthew, Judge not, leaſt thou be judged, for
+with what judgement ye judge ye ſhall be judged, and with what meaſure ye meet, it ſhall
+be meaſured to you again: and why beholdeſt thou the mote that is in thy Brothers eye,
+and conſidereſt not the beam that is in thy own eye; thou hypocrite, firſt caſt out the beam
+out of thine own eye, and then ſhalt thou ſee clearly to caſt out the mote out of thy Brothers
+eye:</hi> moſt certain it is without this rule be obſerved thou wilt certainly pull down
+more than thou canſt build up by all the beſt words in the world.</p>
+            <p>6ly. And laſtly I ſhall give theſe directions as the proper means to ſtop and
+prevent the currant of thoſe growing evils of ſtrife, debate, diviſion, whiſpering,
+backbiting and falſe-reports; you know it is the part of a good Phyſitian not on<g ref="char:EOLhyphen"/>ly
+to ſhew what the grief and diſtemper is, but to apply ſuch proper means as
+may be moſt ſutable for the perfecting the Cure. The diſeaſe is the ſubject which
+this Teſtimony is againſt, <hi>viz.</hi> backbitings and whiſperings: the Infallible cure for
+it, is our cloſe walking and abiding in Chriſt who is the peaceable Saviour, and
+Prince of everlaſting peace; for moſt certain and without all controverſie if we
+keep in the Love and Life that is in him, we ſhall keep out of all that's evil, and
+all that offends, for mark you in Chriſt Jeſus there is neither giving offence cauſe
+leſly nor taking offence, but a dwelling in Love that is the fulfilling of the Law
+2ly, Put on Charity, it is the bond of perfectneſs, and hath theſe ſeveral effects: It will
+certainly keep the mind in a peaceable and meek temper, ſo far from ſeeking occa<g ref="char:EOLhyphen"/>ſion
+of contention that no provocation ſhall draw us to it; Charity is not eaſil<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+provoked, ſo that whoſoever is uncharitable ſhews his heart is far from a Chriſti<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+Temper; and it is to be conſidered the nature of this Charity is ſuch, that it <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+moſt certainly cauſe a tender compaſſion towards all the miſeries of others w<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+have erred or gone out of the way, to lend a hand to reſtore them back aga<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+            </p>
+            <p>To cloſe up this my Friendly Perſwaſion I commend you to read weightily, and
+practice ſincerely theſe directions of Chriſt and the Apoſtle <hi>Paul</hi> gives in this caſe of
+Charity one towards another, which if truly obſerved will put an end to theſe
+Controverſies amongſt profeſſors of Chriſtianity, Mat. 18. 15. <hi>If thy Brother ſhall
+treſpaſs againſt thee, go and tell him his fault between thee and him; if he ſhall hear thee,
+thou haſt gained thy Brother.</hi> Rom. 14. <hi>Him that is weak in the faith receive you, but
+not to doubtful diſputations.</hi> Rom. 14. 19. <hi>Let us follow after the things that make for
+peace, and things wherewith you may edifie one another.</hi> Now the God of peace that
+brought again our Lord Jeſus from the dead, that great Shepheard of the
+ſheep, through the blood of the Everlaſting Covenant make you perfect in every
+good work to do his Will, working in you that which is well-pleaſing in his ſight,
+through Jeſus Chriſt, to whom be glory for ever, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <dateline>London <date>25. 12. Month 1683/4.</date>
+               </dateline>
+               <signed>By one that wiſhes well to Sion, and that ſhe may abundantly proſper, <hi>John Heywood.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> Thomas Howkins <hi>in</hi> George-yard <hi>in</hi> Lumbardſtreet. 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
